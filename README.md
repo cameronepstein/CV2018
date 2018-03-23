@@ -9,7 +9,6 @@ Personally, I feel that the constantly evolving, creative environment in tech al
 
 I enjoy working in teams, have great inter-personal skills and truly believe I have thrived as a developer.
 
-
 [Skills](#skills) // [Projects](#projects) // [Education](#education) // [Experience](#experience)
 
 ## Skills
@@ -133,7 +132,7 @@ Most of my recent projects are set to private, but here's some of my code from w
 
 ##### Music
 
-I am absolutely fanatical about music. In particular I enjoy [jazz/funk](https://www.youtube.com/watch?v=Y_5a6OkyBaY), [reggae](https://www.youtube.com/watch?v=LTK99CNnORQ), [rock](https://www.youtube.com/watch?v=rXwMrBb2x1Q) and [a variety of classics](https://www.youtube.com/watch?v=pJV2pWFyfn4). I regularly curate playlists/mixes for personal or professional use.
+I am absolutely fanatical about music. In particular I enjoy [jazz/funk](https://www.youtube.com/watch?v=Y_5a6OkyBaY), [reggae](https://www.youtube.com/watch?v=LTK99CNnORQ), [rock](https://www.youtube.com/watch?v=rXwMrBb2x1Q) and [a other classics](https://www.youtube.com/watch?v=pJV2pWFyfn4). I regularly curate playlists/mixes for personal or professional use.
 
 I am a passionate DJ/producer and often perform live. I have played at events like MADE, Hospitality, FACE, Annie Mac Presents and festivals like Outlook, Dimensions and Global Gathering. Additionally, I am currently working on a concept album and graphic novel under the name Last Man on Earth.
 
@@ -142,6 +141,7 @@ I am a passionate DJ/producer and often perform live. I have played at events li
 After my university course I have become a huge fan of modern and classical film.
 Some of my favourite directors are Stanley Kubrick and Sebastian Silva.
 
-##### Blog
-
-I am currently working on a [technology blog](https://computer-love.com/), based loosely on the 1981 Kraftwerk track [Computer Love](https://www.youtube.com/watch?v=ZtWTUt2RZh0).
+##### Useful Links
+[KyraTV](https://www.youtube.com/channel/UCvO6uJUVJQ6SrATfsWR5_aA)
+[Dojo](https://www.dojoapp.co/)
+[LinkedIn](https://www.linkedin.com/in/cameron-epstein-2331ba88/)
