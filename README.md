@@ -77,7 +77,7 @@ Actively design software with single responsibility principle in mind.
 
 ## Projects
 
-Most of my recent projects are set to private, but here's some of my code from when I first got going....
+Most of my recent projects are set to private. If you'd like to have a look please feel free to send me a message. For the time being, here's some of my code from when I first got going....
 
  [Asteroids](https://github.com/mbutlerw/arcade_games)
 
@@ -143,5 +143,7 @@ Some of my favourite directors are Stanley Kubrick and Sebastian Silva.
 
 ##### Useful Links
 [KyraTV](https://www.youtube.com/channel/UCvO6uJUVJQ6SrATfsWR5_aA)
+
 [Dojo](https://www.dojoapp.co/)
+
 [LinkedIn](https://www.linkedin.com/in/cameron-epstein-2331ba88/)
