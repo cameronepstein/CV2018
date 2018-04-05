@@ -136,10 +136,12 @@ I am absolutely fanatical about music. In particular I enjoy [jazz/funk](https:/
 
 I am a passionate DJ/producer and often perform live. I have played at events like MADE, Hospitality, FACE, Annie Mac Presents and festivals like Outlook, Dimensions and Global Gathering. Additionally, I am currently working on a concept album and graphic novel under the name Last Man on Earth.
 
-##### Film/Drama
+##### Film/Theatre
 
 After my university course I have become a huge fan of modern and classical film.
 Some of my favourite directors are Stanley Kubrick and Sebastian Silva.
+
+I also enjoy the theatre and in 2011 co-wrote and performed in a comedy about two writers  and a melodramatic killer in 1930's New York, titled 'Blackwood'. After taking the play to the Edinburgh Fringe we received 5 star reviews and were awarded a fringe sell out title.
 
 ##### Useful Links
 [KyraTV](https://www.youtube.com/channel/UCvO6uJUVJQ6SrATfsWR5_aA)
