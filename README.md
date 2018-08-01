@@ -1,5 +1,5 @@
 # Cameron Epstein
-## Lead Developer at Dojo/Kyra
+## Lead Developer at Dojo & Kyra
 
 For the last year and a half I have worked as a developer at Dojo/Kyra. Focusing on web & applications development, data engineering, dev ops, targeted advertising, marketing strategy & data science.
 
