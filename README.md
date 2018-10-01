@@ -132,7 +132,7 @@ Most of my recent projects are set to private. If you'd like to have a look plea
 
 ##### Music
 
-I am absolutely fanatical about music. In particular I enjoy [jazz/funk](https://www.youtube.com/watch?v=Y_5a6OkyBaY), [reggae](https://www.youtube.com/watch?v=LTK99CNnORQ), [rock](https://www.youtube.com/watch?v=rXwMrBb2x1Q) and [a other classics](https://www.youtube.com/watch?v=pJV2pWFyfn4). I regularly curate playlists/mixes for personal or professional use.
+I am absolutely fanatical about music. In particular I enjoy [this](https://www.youtube.com/watch?v=ZQoh5UUWJTE), [this](https://www.youtube.com/watch?v=NwVtIPeYIeQ), [this](https://www.youtube.com/watch?v=l_UWIKyjAbQ) and [this](https://www.youtube.com/watch?v=Rd3vwwXArMQ). I regularly curate playlists/mixes for personal or professional use.
 
 I am a passionate DJ/producer and often perform live. I have played at events like MADE, Hospitality, FACE, Annie Mac Presents and festivals like Outlook, Dimensions and Global Gathering. Additionally, I am currently working on a concept album and graphic novel under the name Last Man on Earth.
 
