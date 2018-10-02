@@ -1,7 +1,7 @@
 # Cameron Epstein
 ## Lead Developer at Dojo & Kyra
 
-For the last year and a half I have worked as a developer at Dojo/Kyra. Focusing on web & applications development, data engineering, dev ops, targeted advertising, marketing strategy & data science.
+I have been coding for over 3 years now, spending the last two years as a developer at Dojo & Kyra. Mostly, my role has been focused towards web & applications development, data engineering, dev ops, growth hacking, targeted advertising, marketing strategy & data science.
 
 So far, coding has been one of the most academically challenging activities in my life. Arriving at work each day with the expectation of solving new, demanding problems has lead to noticeable improvements as well as an increased drive to understand previously unknown technologies.  
 
@@ -25,6 +25,7 @@ I use a variety of different technologies in my current role. Please see main sk
 * Ruby
 * Google Analytics
 * Git
+* AWS
 * Adwords
 
 ##### Data Engineering/Data Science :bar_chart:
@@ -134,7 +135,7 @@ Most of my recent projects are set to private. If you'd like to have a look plea
 
 I am absolutely fanatical about music. In particular I enjoy [this](https://www.youtube.com/watch?v=ZQoh5UUWJTE), [this](https://www.youtube.com/watch?v=NwVtIPeYIeQ), [this](https://www.youtube.com/watch?v=l_UWIKyjAbQ) and [this](https://www.youtube.com/watch?v=Rd3vwwXArMQ). I regularly curate playlists/mixes for personal or professional use.
 
-I am a passionate DJ/producer and often perform live. I have played at events like MADE, Hospitality, FACE, Annie Mac Presents and festivals like Outlook, Dimensions and Global Gathering. Additionally, I am currently working on a concept album and graphic novel under the name Last Man on Earth.
+I am a passionate DJ/producer and often perform live. I have played at events like Dollop, MADE, Hospitality, FACE, Leftfoot, Annie Mac Presents and festivals like Outlook, Dimensions and Global Gathering. Additionally, I am currently working on a concept album and graphic novel under the name Last Man on Earth.
 
 ##### Film/Theatre
 
