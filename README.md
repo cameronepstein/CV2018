@@ -5,10 +5,6 @@ I have been coding for over 3 years now, spending the last two years as a develo
 
 So far, coding has been one of the most academically challenging activities in my life. Arriving at work each day with the expectation of solving new, demanding problems has lead to noticeable improvements as well as an increased drive to understand previously unknown technologies.  
 
-Personally, I feel that the constantly evolving, creative environment in tech allows me to best utilise the qualities I posses.
-
-I enjoy working in teams, have great inter-personal skills and truly believe I have thrived as a developer.
-
 [Skills](#skills) // [Projects](#projects) // [Education](#education) // [Experience](#experience)
 
 ## Skills
